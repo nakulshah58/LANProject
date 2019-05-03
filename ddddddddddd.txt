@@ -106,39 +106,3 @@ text
     </secti
 </body>
 </html>
-
- 
-
-
-
-
-
-
-
-
-
-</head>
-
-<body>
-    <header>
-
-       <div class="row">
-       <ul class= "main-nav">
-		<li class= "active"><a href=""> Attacks </a> </li>
-		<li><a href=""> Counterterrorism Operation </a> </li>
-		<li><a href=""> Aftermath </a> </li>
-	
-	</ul>
-
-	</div>   
-
-	<div class= "hero">
-	<h1 Are You Ready </h1?
-	</div>
-
-    </header>
-
-
-
-
-</html>
